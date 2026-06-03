@@ -3,7 +3,7 @@
 
 A free, browser-based set of **eight decision-making frameworks** with a built-in recommender that matches your problem to the right tool. No account, no tracking, no server — everything runs locally in your browser and auto-saves to your device.
 
-**[▶ Live demo](https://YOUR-USERNAME.github.io/decision-toolkit/)** ← replace with your GitHub Pages URL after publishing.
+**[▶ Live demo]((https://sjonah123-stack.github.io/Decisions-ToolKit/))**
 
 ## Frameworks
 
